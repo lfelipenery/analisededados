@@ -1,0 +1,40 @@
+body {
+    font: normal 18pt Arial;
+    background-image: url('caneca.jpg');
+    background-size: auto 150vh;
+    background-position: initial ;
+    font-family: 'Audiowide', cursive;
+;
+
+}
+header {
+color: rgb(151, 47, 47);
+font-family: 'Audiowide', cursive;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+
+}
+
+section {
+    background:rgba(255, 255, 255, 0);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    font-family: 'Audiowide', cursive;
+}
+    
+
+select#flista {
+    width: 150px;
+
+}
+Footer {
+    text-align:  center;
+    color: rgb(0, 0, 0);
+
+}
